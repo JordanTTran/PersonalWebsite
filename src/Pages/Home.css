@@ -1,0 +1,85 @@
+
+
+
+body {
+  margin: 0;
+  background-color: #abe4ea;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  }
+
+span.header{
+  color: #005fbe;
+}
+
+
+.photo {
+  height: 800px;
+  width: 800px;
+}
+
+
+img.linkedin {
+  width:100px;
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.github {
+  width: 100px;
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 10px 20px;
+}
+
+p.header-title {
+  text-align: center;
+  font-size: 80px;
+  font-weight: bold;
+  color: black;
+  margin-top: 10%;
+
+}
+
+p.head-text-two {
+  text-align: center;
+  margin-top: 1%;
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+}
+
+.column{
+  width: 100px;
+  height: 100px;
+  margin: 0 40px;
+  margin-top: 10%;
+}
+
+h1.head-text {
+  margin-top: -5%;
+  position: absolute;
+}
+
+h2.head-text-two {
+  margin-top: -5%;
+}
+

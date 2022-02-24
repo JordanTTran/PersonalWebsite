@@ -1,0 +1,130 @@
+   
+.inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1.head {
+    font-size: 50px;
+    color: black;
+}
+
+ul.project-names {
+margin: 10px;
+padding: 0;
+list-style: none;
+display: flex;
+margin-top: 6%;
+
+}
+
+li.project-names{
+    font-size: 14px;  
+    
+
+}
+
+.container{
+    width: 70%;
+    display: flex;;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.item {
+    width: 250px;
+    height: 250px;
+    border-radius: 1px;
+    border: 3px solid black;
+    margin: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+}
+
+
+
+h3 {
+    position: absolute;
+    font-size: 20px;
+    color: black;
+
+}
+
+a.button{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+p.header {
+    position: absolute;
+    font-size: 20px;
+    color: black;
+
+}
+
+p.header2{
+    margin-top: 5%;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+img.git{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.project{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+img.project:hover {
+    opacity:0.2;
+    background-color: purple;
+}
+
+
+p.project-header{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1%;
+}
+
+img.image-outline {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+
+}
+
+div.outline-card {
+    width: 300px;
+    border: 5px solid black;
+    padding: 0px;
+    margin: 20px;
+}
+
+div.underline-card {
+    border-bottom: 2px solid gray;
+}
+
+div.card-title {
+    font-weight: bold;
+    margin-bottom: 3%;
+    font-size: 25px;
+}
+
+div.incomplete {
+    visibility: hidden;
+}
