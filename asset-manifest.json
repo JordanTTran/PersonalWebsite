@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.653a00c0.css",
-    "main.js": "/static/js/main.710fb426.js",
+    "main.js": "/static/js/main.c605c416.js",
     "static/js/415.0da9d538.chunk.js": "/static/js/415.0da9d538.chunk.js",
     "static/js/787.76826462.chunk.js": "/static/js/787.76826462.chunk.js",
     "static/media/stepforwardwebsite.png": "/static/media/stepforwardwebsite.3759679f32efaa49ca02.png",
@@ -9,15 +9,15 @@
     "static/media/poker2.PNG": "/static/media/poker2.50aa77f56971c7368ccf.PNG",
     "static/media/habittrackerapp.png": "/static/media/habittrackerapp.fcfe76054dbd46a2ce3e.png",
     "static/media/Resume.png": "/static/media/Resume.ab2d1fd533b158aecb49.png",
-    "static/media/databasewebsite.png": "/static/media/databasewebsite.a41bd0e3a31fb5a56aa5.png",
+    "static/media/databasewebsite.png": "/static/media/databasewebsite.c0c1f2fd96307ad519bd.png",
     "index.html": "/index.html",
     "main.653a00c0.css.map": "/static/css/main.653a00c0.css.map",
-    "main.710fb426.js.map": "/static/js/main.710fb426.js.map",
+    "main.c605c416.js.map": "/static/js/main.c605c416.js.map",
     "415.0da9d538.chunk.js.map": "/static/js/415.0da9d538.chunk.js.map",
     "787.76826462.chunk.js.map": "/static/js/787.76826462.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653a00c0.css",
-    "static/js/main.710fb426.js"
+    "static/js/main.c605c416.js"
   ]
 }
