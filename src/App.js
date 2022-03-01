@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-
 import './App.css';
 
 import Home from "./Pages/Home";
@@ -8,10 +7,15 @@ import Projects from "./Pages/Projects";
 import Education from "./Pages/Education.js"
 import Contact from "./Pages/Contact.js"
 
-function App() {
+import { render } from '@testing-library/react';
 
+import {HashRouter} from 'react-router-dom';
+
+function App() {
   return (
-    <Router>
+
+    
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/resume" element={<Resume />} />
@@ -19,7 +23,8 @@ function App() {
         <Route path="/education" element={<Education />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </Router>
+    </HashRouter>  
+
   );
 }
 

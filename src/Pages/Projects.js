@@ -101,15 +101,15 @@ function Projects() {
                     </div>
                     <CardContent>
                     <div class = "card-title">
-                        <p>Basic Inventory Tracker </p>
+                        <p>PS5 Inventory Bot </p>
                     </div>
                     <Typography variant="body2" color="text.secondary">
-                        Very basic inventory tracker made using Python.
+                        Tracks PS5 inventory and automatically purchases when in stock. 
                     </Typography>
                     </CardContent>
                     </CardActionArea>
                     <CardActions>
-                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/Very-Basic-Inventory-Tracker"} rel="noopener noreferrer">
+                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/PS5-Bot"} rel="noopener noreferrer">
                         Go To Project
                         </Button>
                     </CardActions>
@@ -123,7 +123,7 @@ function Projects() {
                         <img src={require("./Images/personalwebsite3.png")}alt =""  class ="image-outline"></img>
                     </div>
                     <CardContent>
-                    <div class = "card-title">
+                    <div class = "card-title-adjust-2">
                         <p>Personal Website</p>
                     </div>
                     <Typography variant="body2" color="text.secondary">
@@ -132,7 +132,7 @@ function Projects() {
                     </CardContent>
                     </CardActionArea>
                     <CardActions>
-                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/Very-Basic-Inventory-Tracker"} rel="noopener noreferrer">
+                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/PersonalWebsite"} rel="noopener noreferrer">
                         Go To Project
                         </Button>
                     </CardActions>
@@ -140,23 +140,23 @@ function Projects() {
                 </div>
 
                 
-                <div class = "outline-card incomplete">
+                <div class = "outline-card">
                     <Card sx={{ maxWidth: 345 }}>
                     <CardActionArea>
                     <div class ="underline-card">
-                        <img src={require("./Images/personalwebsite.png")}alt ="" width="300" height="300" class ="image-outline"></img>
+                        <img src={require("./Images/databasewebsite.png")}alt ="" width="300" height="300" class ="image-outline"></img>
                     </div>
                     <CardContent>
                     <div class = "card-title">
-                        <p>Basic Inventory Tracker </p>
+                        <p>Restaurant Database </p>
                     </div>
                     <Typography variant="body2" color="text.secondary">
-                        Very basic inventory tracker made using Python.
+                        A custom made database connected to a website. Made using HTML, CSS, and PHP.
                     </Typography>
                     </CardContent>
                     </CardActionArea>
                     <CardActions>
-                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/Very-Basic-Inventory-Tracker"} rel="noopener noreferrer">
+                        <Button size="small" color="primary" target="_blank" href = {"//github.com/JordanTTran/Restaurant-Database-Website"} rel="noopener noreferrer">
                         Go To Project
                         </Button>
                     </CardActions>

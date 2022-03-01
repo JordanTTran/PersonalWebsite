@@ -128,6 +128,18 @@ function Resume() {
                 ]}
                 /> 
               </div>
+
+              <div style={{ width: "80%", marginLeft: "10%", marginBottom: "0.5%"  }}>        
+                PHP
+                <HSBar
+                showTextIn
+                data={[
+                  { value: 7000, description: " ", color: "#FFA500"},
+                  { value: 6000, description: "Proficient", color: "#A9A9A9" }
+                ]}
+                /> 
+              </div>
+
             </div>
 
         </div>

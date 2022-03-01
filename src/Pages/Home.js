@@ -57,10 +57,10 @@ function Home() {
             },
             particles: {
               color: {
-                value: "#017c81",
+                value: "#025c66",
               },
               links: {
-                color: "#017c81",
+                color: "#025c66",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
